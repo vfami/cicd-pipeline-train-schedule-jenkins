@@ -14,8 +14,8 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-##Troubleshooting link 
-###1.
+## Troubleshooting link 
+### 1.
 If you just configure your jenkins and project, 
 you migth encounter the error saying: 
 FAILURE: Build failed with an exception.
@@ -29,7 +29,7 @@ Run with --stacktrace option to get the stack trace. Run with --info or --debug 
 
 To handle this error, just updrage manually Gradle version in gradle/wrapper/gradle-wrapper.properties as indicated here: (https://www.handsonprogramming.io/blog/2021/07/gradle/)
 
-###2. 
+### 2. 
 If you have this problem : 
 ![image](https://user-images.githubusercontent.com/37641679/210336470-f42695c8-3997-4272-8b32-79bf2ebb9497.png)
 
